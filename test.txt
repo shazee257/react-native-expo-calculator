@@ -1,0 +1,24 @@
+{/* <View style={styles.btnRow}>
+          <ButtonApp onPress={() => { }} title="7" />
+          <ButtonApp onPress={() => { }} title="8" />
+          <ButtonApp onPress={() => { }} title="9" />
+          <ButtonApp onPress={() => { }} title="X" />
+        </View>
+        <View style={styles.btnRow}>
+          <ButtonApp onPress={() => { }} title="4" />
+          <ButtonApp onPress={() => { }} title="5" />
+          <ButtonApp onPress={() => { }} title="6" />
+          <ButtonApp onPress={() => { }} title="-" />
+        </View>
+        <View style={styles.btnRow}>
+          <ButtonApp onPress={() => { }} title="1" />
+          <ButtonApp onPress={() => { }} title="2" />
+          <ButtonApp onPress={() => { }} title="3" />
+          <ButtonApp onPress={() => { }} title="+" />
+        </View>
+        <View style={styles.btnRow}>
+          <ButtonApp onPress={() => { }} title="0" />
+          <ButtonApp onPress={() => { }} title="00" />
+          <ButtonApp onPress={() => { }} title="." />
+          <ButtonApp onPress={() => { }} title="=" />
+        </View> */}
